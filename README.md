@@ -1,4 +1,4 @@
-# Simple-Image-Classifier
+# Image-Classifier
 Siraj's - Homework for week 1.
 
 A simple image classifier web app using the pre-trained MobileNet model. 
